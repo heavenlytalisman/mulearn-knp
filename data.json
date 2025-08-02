@@ -1,7 +1,7 @@
 {
-    "collegeCode": "SNT",
+    "collegeCode": "KNP",
 
-    "college": "Sree Narayana Guru Institute of Science and Technology",
+    "college": "College of Engineering Karunagapally",
 
     "about": "Lorem ipsum dolor sit amet consectetur adipiscing, elit ultricies imperdiet neque mattis, orci pellentesque turpis facilisi leo. Laoreet donec tortor sagittis habitasse eleifend conubia quis lacinia accumsan auctor, montes morbi natoque convallis integer aliquam posuere eu nulla, proin fames dapibus mattis sociis ligula blandit quam potenti. Himenaeos fringilla tincidunt aptent porta ultrices velit dignissim senectus purus suspendisse, fames eleifend feugiat nam hac montes semper pretium potenti, viverra curae netus volutpat cras per eu cubilia primis.",
 
@@ -71,7 +71,7 @@
         "InterestGroups": 5,
         "karmaEarned": 60,
         "rank": 28
-    },
+    }, 
 
     "team": {
         "staffAdvisor": {
@@ -106,17 +106,17 @@
             "name": "Enric S Neelamkavil",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         }
-    },
+    }, 
 
-    "discordLink": "",
+    "discordLink": "https://discord.gg/44RqXd4g",
 
     "whatsAppLink": "",
 
-    "email": "mulearn@cce.edu.in",
+    "email": "mulearnknp@gmail.com",
 
-    "linkedIn": "",
+    "linkedIn": "https://www.linkedin.com/in/mulearn-knp-9b48aa307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 
-    "instagram": "",
+    "instagram": "https:https://www.instagram.com/mulearn.knp?igsh=MXJzZnMwMTI5eWM4Nw==//www.instagram.com/mulearn.knp?igsh=MXJzZnMwMTI5eWM4Nw==",
 
     "twitter": "",
 
