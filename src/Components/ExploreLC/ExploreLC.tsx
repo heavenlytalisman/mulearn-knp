@@ -16,7 +16,7 @@ const ExploreLC = () => {
                     time learning about new things with a group of people with
                     same interests!
                 </p>
-                <a target="_blank" href="https://app.mulearn.org/learning-circle">
+                <a target="_blank" href="https://app.mulearn.org/dashboard/learningcircle">
                     Create/Join Learning Circles
                 </a>
             </div>
