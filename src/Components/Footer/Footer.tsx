@@ -16,10 +16,10 @@ const Footer = () => {
                     <a target="_blank" href="https://mulearn.org/">
                         µLearn
                     </a>
-                    <a target="_blank" href="https://mulearn.org/announcements">
+                    <a target="_blank" href="https://app.mulearn.org/dashboard/special-events">
                         Events
                     </a>
-                    <a target="_blank" href="https://mulearn.org/gallery">
+                    <a target="_blank" href="https://www.instagram.com/mulearn.official/?hl=en">
                         Gallery
                     </a>
                     <a target="_blank" href="https://online.fliphtml5.com/egsqr/tlgc/">
