@@ -3,9 +3,7 @@ import "./App.css";
 import Navbar from "./Components/Navbar/Navbar";
 import Home from "./Components/Home/Home";
 import About from "./Components/About/About";
-import Events from "./Components/Events/Events";
 import Gallery from "./Components/Gallery/Gallery";
-import Statistics from "./Components/Statistics/Statistics";
 import ExploreLC from "./Components/ExploreLC/ExploreLC";
 import Team from "./Components/Team/Team";
 import Connect from "./Components/Connect/Connect";
@@ -17,9 +15,7 @@ function App() {
             <Navbar />
             <Home />
             <About />
-            <Events />
             <Gallery />
-            <Statistics />
             <ExploreLC />
             <Team />
             <Connect />
