@@ -46,18 +46,18 @@
     "gallery": {
         "row1": [
             {
-                "image": "https://mulearn.org/assets/home/illustration.webp"
+                "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/nbll8v41lldlkdlw885h_ha3agl.webp"
             },
             {
-                "image": "https://mulearn.org/assets/home/Chart.webp"
+                "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/t1klwdpks95aoa1nta8q_aq8l0a.webp"
             },
 			{
-				"image": "https://learn.mulearn.org/assets/challenge/typingsample.webp"
+				"image": "https://res.cloudinary.com/dwulqwvlx/image/upload/etyiitmj8q4dahhngtlh_brvvnu.webp"
 			}
         ],
         "row2": [
             {
-                "image": "https://th.bing.com/th/id/OIP.p5zC9uLm5ByGSy8gYI0McAHaE8?pid=ImgDet&rs=1"
+                "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/ycfb8izic5nuvpzllofv_nj7qly.webp"
             },
             {
                 "image": "https://images.squarespace-cdn.com/content/v1/5c710438b914490d5769a64f/b4fb2b4f-5f95-41a1-9416-d156d0ae273f/Most+Famous+Astrologer+in+the+World.jpg"
