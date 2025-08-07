@@ -1,5 +1,5 @@
 import styles from "./Footer.module.css";
-import { Instagram, Twitter, Facebook, LinkedIn } from "./assets/svg";
+import { Instagram, Facebook, LinkedIn } from "./assets/svg";
 import { ULearnWhite } from "../../assets/svg/svg";
 import data from "../../../data.json"
 
