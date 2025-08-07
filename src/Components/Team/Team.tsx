@@ -70,16 +70,16 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.treasurer.image}
+                                src={data.team.designLead.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.treasurer.name}
+                                {data.team.designLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
-                                Treasurer
+                                Design Lead
                             </div>
                         </div>
                     </div>
@@ -104,16 +104,16 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.mediaLead.image}
+                                src={data.team.webLead.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.mediaLead.name}
+                                {data.team.webLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
-                                Media Lead
+                                Web Lead
                             </div>
                         </div>
                     </div>
@@ -121,16 +121,33 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.contentLead.image}
+                                src={data.team.outreachLead.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.contentLead.name}
+                                {data.team.outreachLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
-                                Content Lead
+                                Outreach Coordinator
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team7}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.outreachLead2.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.outreachLead2.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Outreach Coordinator
                             </div>
                         </div>
                     </div>
@@ -138,16 +155,50 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.operationLead.image}
+                                src={data.team.studentActivityLead.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.operationLead.name}
+                                {data.team.studentActivityLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
-                                Operation Lead
+                                Student Activities Cooridinator
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team8}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.studentActivityLead2.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.studentActivityLead2.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Student Activities Cooridinator
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team8}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.discordCoordinator.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.discordCoordinator.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Discord Coordinator
                             </div>
                         </div>
                     </div>
