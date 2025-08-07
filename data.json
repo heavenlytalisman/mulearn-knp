@@ -79,52 +79,63 @@
         "rank": 28
     }, 
 
-    "team": {
-        "staffAdvisor": {
-            "name": "Asst Prof. Anju S",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+    "team": [
+        {
+        "role": "Staff Advisor",
+        "name": "Asst Prof. Anju S",
+        "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "campusLead": {
-            "name": "Devanath D R",
-            "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
+        {
+        "role": "Campus Lead",
+        "name": "Devanath D R",
+        "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
         },
-        "campusCoLead": {
-            "name": "Soja Grace Saju",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+        "role": "Campus Co-Lead",
+        "name": "Soja Grace Saju",
+        "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "designLead": {
-            "name": "R Sreehari",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+        "role": "Design Lead",
+        "name": "R Sreehari",
+        "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "technicalLead": {
-            "name": "Sagar Shyamkumar",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+        "role": "Technical Lead",
+        "name": "Sagar Shyamkumar",
+        "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "webLead": {
-            "name": "Sreenandu K",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+        "role": "Web Lead",
+        "name": "Sreenandu K",
+        "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "outreachLead": {
-            "name": "Sankar Narayan S",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+        "role": "Outreach Coordinator",
+        "name": "Sankar Narayan S",
+        "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "outreachLead": {
-            "name": "Bhama J",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+        "role": "Outreach Coordinator",
+        "name": "Bhama J",
+        "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "studentActivityLead": {
-            "name": "Atul Alexander Vaidian",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+        "role": "Student Activities Lead",
+        "name": "Atul Alexander Vaidian",
+        "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "studentActivityLead": {
-            "name": "Abhishek R",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+        "role": "Student Activities Lead",
+        "name": "Abhishek R",
+        "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "discordCoordinator": {
-            "name":  "Ananda Narayanan",
-            "image": "https://path.to/discord-coordinator-image.png"
+        {
+        "role": "Discord Coordinator",
+        "name": "Ananda Narayanan",
+        "image": "https://path.to/discord-coordinator-image.png"
         }
-    }, 
+    ], 
 
     "discordLink": "https://discord.gg/44RqXd4g",
 

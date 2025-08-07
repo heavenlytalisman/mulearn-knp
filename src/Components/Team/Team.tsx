@@ -19,8 +19,8 @@ const Team = () => {
 
         {/* Responsive grid of team members */}
         <div className={styles.teamMembersDetailsWrapper}>
-          {Object.entries(data.team).map(([key, member]) => (
-            <div key={key} className={styles.team}>
+          {data.team.map((member, index) => (
+            <div key={index} className={styles.team}>
               <img
                 className={styles.teamImageIndividual}
                 src={member.image}
@@ -30,10 +30,7 @@ const Team = () => {
               <div className={styles.teamNameDesignation}>
                 <h3 className={styles.teamMemberName}>{member.name}</h3>
                 <p className={styles.teamMemberDesignation}>
-                  {key
-                    .replace(/([A-Z])/g, " $1")
-                    .replace(/^./, str => str.toUpperCase())
-                  }
+                  {member.role}
                 </p>
               </div>
             </div>
