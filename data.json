@@ -85,59 +85,64 @@
 
     "team": [
         {
-        "role": "Staff Advisor",
+        "role": "Campus Enabler",
         "name": "Asst Prof. Anju S",
-        "image": ""
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/Anju_miss_xrvb48.webp"
         },
         {
         "role": "Campus Lead",
         "name": "Devanath D R",
-        "image": ""
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/pupnog7j6cux0cuwlawb_jlbcj1.webp"
         },
         {
         "role": "Campus Co-Lead",
         "name": "Soja Grace Saju",
-        "image": ""
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/Soja_izva79.webp"
         },
         {
         "role": "Design Lead",
         "name": "R Sreehari",
-        "image": ""
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/Sreehari_zxwpcp.webp"
         },
         {
         "role": "Technical Lead",
         "name": "Sagar Shyamkumar",
-        "image": ""
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/Sagar_ikuxmz.webp"
         },
         {
         "role": "Web Lead",
         "name": "Sreenandu K",
-        "image": ""
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/Sreenandu_mrrbhp.webp"
         },
         {
         "role": "Outreach Coordinator",
         "name": "Sankar Narayan S",
-        "image": ""
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/Sankar_halwd3.webp"
         },
         {
         "role": "Outreach Coordinator",
         "name": "Bhama J",
-        "image": ""
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/Bhama_vultjs.webp"
         },
         {
         "role": "Student Activities Coordinator",
         "name": "Atul Alexander Vaidian",
-        "image": ""
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/Atul_brir4l.webp"
         },
         {
         "role": "Student Activities Coordinator",
         "name": "Abhishek R",
-        "image": ""
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/Abhishek_n4u4hq.webp"
+        },
+        {
+        "role": "Student Activities Coordinator",
+        "name": "Ajna Ismail",
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/Ajna_va93kk.webp"
         },
         {
         "role": "Discord Coordinator",
         "name": "Ananda Narayanan",
-        "image": ""
+        "image": "https://res.cloudinary.com/dwulqwvlx/image/upload/Ananda_khvrni.webp"
         }
     ], 
 
